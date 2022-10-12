@@ -1,0 +1,21 @@
+.banner {
+    height: 550px;
+    color: white;
+
+}
+
+.banner_content {
+    margin-left: 3rem;
+    height: 160px;
+    padding-top: 150px;
+}
+.banner_title{
+    font-size: 3rem;
+    margin-bottom: 0.3rem;
+}
+.banner_overview {
+    font-size: 3rem;
+    padding-top: 1rem;
+    font-size: 1rem;
+
+}
